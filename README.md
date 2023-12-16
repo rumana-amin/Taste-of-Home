@@ -5,3 +5,5 @@ The dataset utilized for this analysis is sourced from the "Journal[year].xlsx" 
 ### Tool
 - Excel
 ### Sales Dashboard-Excel
+
+![Excel-Dashboard](https://github.com/rumana-amin/Taste-of-Home/assets/135628486/b9234d99-fa6b-48ee-b415-9bb36f0705a2)
